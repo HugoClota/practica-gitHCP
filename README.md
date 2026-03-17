@@ -1,1 +1,4 @@
-Mi primer proyecto con Git
+Este es mi primer proyecto con Git
+
+Autor: Hugo Clota Pérez
+
