@@ -4,3 +4,5 @@ Autor: Hugo Clota Pérez
 
 Estamos trabajando en la rama desarrollo y conflicto solucionado
 
+Hecho desde la interfaz de Git Kraken
+
